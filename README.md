@@ -4,4 +4,4 @@ Para isso foi usado a python library tweepy
 Na interface gráfica foi usado o easygui
 Para a captura de fotos foi usado o PyGame
 
-. Licence MIT
+* Licence MIT
